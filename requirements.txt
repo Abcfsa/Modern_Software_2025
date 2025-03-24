@@ -1,0 +1,7 @@
+numpy==2.2.4
+opencv_python==4.8.0.76
+opencv_python_headless==4.10.0.84
+streamlit==1.43.2
+torch==2.0.0+cu118
+ultralytics==8.3.95
+
