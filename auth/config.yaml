@@ -1,0 +1,28 @@
+api_key: null
+cookie:
+  expiry_days: 30
+  key: bed
+  name: soup
+credentials:
+  usernames:
+    test:
+      email: 123@qq.com
+      failed_login_attempts: 0
+      first_name: James
+      last_name: Toad
+      logged_in: true
+      password: $2b$12$5LRfiWVur5HqPg8WPvaAueBTLW.TTa.lR.I3DLYkdKTxFcq5Fefyu
+      password_hint: Abcd1234!
+      roles: null
+oauth2:
+  google:
+    client_id: null
+    client_secret: null
+    redirect_uri: null
+  microsoft:
+    client_id: null
+    client_secret: null
+    redirect_uri: null
+    tenant_id: null
+pre-authorized:
+  emails: null
